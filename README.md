@@ -1,0 +1,1 @@
+Tree Traversal Mini Lab created and done for Computer Science 3 class. Project objective is to create recursive print methods for the given tree for each traversal pattern. Project completed on January 24, 2024. 
